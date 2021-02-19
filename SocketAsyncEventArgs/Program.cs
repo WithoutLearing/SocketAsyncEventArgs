@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SocketAsyncEventArgs
+namespace SocketAsyncEventArgs类
 {
     class Program
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
